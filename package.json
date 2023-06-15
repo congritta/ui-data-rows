@@ -1,0 +1,34 @@
+{
+  "name": "@congritta-ui/data-rows",
+  "version": "0.0.1",
+  "main": "dist/index.css",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "esbuild": "^0.17.19"
+  },
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "dev": "bash scripts/dev.sh"
+  },
+
+  "description": ".data-rows styles for Congritta UI framework",
+  "keywords": [
+    "ui",
+    "styles",
+    "css",
+    "framework",
+    "frontend",
+    "congritta",
+    "data-rows"
+  ],
+  "author": {
+    "name": "Alex Congritta",
+    "email": "congritta@gmail.com",
+    "url": "https://congritta.com"
+  },
+  "homepage": "https://ui.congritta.com/docs/data-rows",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/congritta/ui-data-rows"
+  }
+}
